@@ -13,3 +13,5 @@ This circuit can publish IMU data and 4 ADC channel data.
 cd jsk_imu_mini_msgs
 catkin bt
 roslaunch rosserial_stm rosserial.launch
+
+hoge
